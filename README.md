@@ -1,7 +1,7 @@
 [![Github-Badge](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/shoot649854) <img src="https://komarev.com/ghpvc/?username=shoot649854" />
 
 - 🔭 I’m currently working on [AEIA Lab](https://aiea-lab.github.io/) 
-- 👨‍💻 All of my projects are available at [portfolio](https://shoto-blog.vercel.app/) 
+- 👨‍💻 All of my projects are available at [portfolio](https://shotoweb.vercel.app/) 
 
 <!-- Statistics and numbers -->
 <div style="text-align: center;">
