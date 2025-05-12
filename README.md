@@ -52,9 +52,9 @@
 <a  name="azure" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
 </a>
-<a  name="firebase" href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<!-- <a  name="firebase" href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-</a>
+</a> -->
 <a  name="gcp" href="https://cloud.google.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 </a>
