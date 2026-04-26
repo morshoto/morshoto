@@ -32,12 +32,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,materialui,jest" />
 </p>
 
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,git,postman,webpack,figma" />
-</p>
-
 ### Databases
 
 <p align="left">
