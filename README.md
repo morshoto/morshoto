@@ -37,24 +37,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
-
-<details>
-あなたはこのGit worktree内だけで作業してください。
-他のworktree、他のブランチ、親ディレクトリには絶対に触らないでください。
-
-作業ブランチは現在のブランチのみです。
-main/masterへのcheckout、merge、rebase、pushはしないでください。
-
-担当範囲外のファイルは変更しないでください。
-どうしても担当外ファイルの変更が必要な場合は、変更せずに理由をメモしてください。
-
-完了時は以下を出してください。
-1. 変更したファイル一覧
-2. 何を直したか
-3. 実行したテスト
-4. 未解決の懸念
-5. PRタイトル案
-6. PR本文案
-
-
-</details>
