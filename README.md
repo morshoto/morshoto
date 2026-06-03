@@ -1,12 +1,11 @@
-[![Github-Badge](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/shoot649854) <img src="https://komarev.com/ghpvc/?username=shoot649854" />
+[![Github-Badge](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/morshoto) <img src="https://komarev.com/ghpvc/?username=morshoto" />
 
 - 👨‍💻 All of my projects are available at [portfolio](https://shotoweb.vercel.app/) 
 
 <!-- Statistics and numbers -->
 <div style="text-align: center;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morshoto" alt="profile1">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morshoto" alt="profile1">
 </div>
-
 
 ### Languages
 
